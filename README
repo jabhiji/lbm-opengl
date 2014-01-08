@@ -1,0 +1,1 @@
+This code uses the lattice Boltzmann method (LBM) to solve flow inside a 2D lid-driven cavity. OpenGL is used for on-the-fly visualization of the solution field in the X-Y plane. You can either plot the velocity magnitude or the Z-vorticity.
